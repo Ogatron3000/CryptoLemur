@@ -1,0 +1,15 @@
+C:\Users\ivanm\source\repos\CryptoLemur\bin\Debug\net6.0\CryptoLemur.exe
+C:\Users\ivanm\source\repos\CryptoLemur\bin\Debug\net6.0\CryptoLemur.deps.json
+C:\Users\ivanm\source\repos\CryptoLemur\bin\Debug\net6.0\CryptoLemur.runtimeconfig.json
+C:\Users\ivanm\source\repos\CryptoLemur\bin\Debug\net6.0\CryptoLemur.dll
+C:\Users\ivanm\source\repos\CryptoLemur\bin\Debug\net6.0\ref\CryptoLemur.dll
+C:\Users\ivanm\source\repos\CryptoLemur\bin\Debug\net6.0\CryptoLemur.pdb
+C:\Users\ivanm\source\repos\CryptoLemur\obj\Debug\net6.0\CryptoLemur.csproj.AssemblyReference.cache
+C:\Users\ivanm\source\repos\CryptoLemur\obj\Debug\net6.0\CryptoLemur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivanm\source\repos\CryptoLemur\obj\Debug\net6.0\CryptoLemur.AssemblyInfoInputs.cache
+C:\Users\ivanm\source\repos\CryptoLemur\obj\Debug\net6.0\CryptoLemur.AssemblyInfo.cs
+C:\Users\ivanm\source\repos\CryptoLemur\obj\Debug\net6.0\CryptoLemur.csproj.CoreCompileInputs.cache
+C:\Users\ivanm\source\repos\CryptoLemur\obj\Debug\net6.0\CryptoLemur.dll
+C:\Users\ivanm\source\repos\CryptoLemur\obj\Debug\net6.0\ref\CryptoLemur.dll
+C:\Users\ivanm\source\repos\CryptoLemur\obj\Debug\net6.0\CryptoLemur.pdb
+C:\Users\ivanm\source\repos\CryptoLemur\obj\Debug\net6.0\CryptoLemur.genruntimeconfig.cache
